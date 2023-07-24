@@ -5,7 +5,7 @@
 - 📫 contact me my social media links: -
 - facebook : -  https://www.facebook.com/ali.ahmednuur.1
 - instagram: - https://www.instagram.com/lucky_de_man_/
-- 
+- Twitter: - https://twitter.com/AliAhme97648852
 
 <!---
 Ali-Ahmed-Mohammed/Ali-Ahmed-Mohammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
